@@ -1,0 +1,15 @@
+
+nav{
+    background-color: #d0e9d3;
+    color: #000;
+}
+
+a{
+
+    text-align: center;
+}
+
+li{
+    list-style: none;
+    align-items: center
+  }

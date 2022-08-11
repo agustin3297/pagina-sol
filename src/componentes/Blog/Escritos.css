@@ -1,0 +1,23 @@
+#escritos article{
+    display: flex;
+    align-items: center;
+    padding-top: 1rem;
+    margin-top: 2rem;
+    
+    border-right: #064497 solid 0.12rem;
+    border-bottom: #064497 solid 0.12rem;
+  }
+  
+  #escritos article div{padding-left: 0.75rem;
+    
+    border-left: #064497 solid 0.1rem;
+  }
+  
+  #escritos article img{padding: 0.5rem;
+    
+  }
+  
+  #escritos .row{
+    display: flex;
+    justify-content: space-between;
+  }

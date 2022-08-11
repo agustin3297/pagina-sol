@@ -1,0 +1,25 @@
+#sobre-mi .submit-btn{
+    display: inline-block;
+    background-image: linear-gradient(125deg, #a72879, #064497);
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 0.188rem;
+  font-size: 1rem;
+  padding: 0.5rem 1rem ;
+  border: none;
+  width: 12.5rem;
+  cursor: pointer;
+  }
+  
+  #sobre-mi h2{
+    text-align: start;
+  }
+  
+  #sobre-mi h3{
+    display: inline;
+    text-align: center;
+    padding-left: .5rem;
+    border-left: rgb(177, 161, 161) solid 0.1rem;
+    
+  }
+  

@@ -1,0 +1,81 @@
+#contacto{
+    max-width: 50rem;
+    margin: 3.125rem auto;
+    box-shadow: 0 0.625rem 1.875rem 0 rgba(0, 0, 0, 1);
+    
+   }
+   
+   #contacto .titulo{
+     text-transform: uppercase;
+     letter-spacing: 0.188rem;
+     font-size: 3em;
+     line-height: 3rem;
+     color: #5543ca;
+    }
+   
+    .contact-form .form-field{
+     position: relative;
+     margin: 2rem 0;
+   }
+   
+   .contact-form .input-text{
+     display: block;
+     width: 100%;
+     height: 2rem;
+     border-width: 0 0 2px 0;
+     border-color: #5543ca;
+     font-size: 1.2rem;
+     line-height: 1.625rem;
+     font-weight: 400;
+   }
+   
+   .contact-form .input-text:focus + .label,
+   .contact-form .input-text.not-empty + label{
+     transform: translateY(-1.5rem);
+   }
+   
+   .contact-form .input-text:focus{
+     outline: none;
+   }
+   
+   .contact-form .label{
+     position: absolute;
+     left: 1.25rem;
+     bottom: 0.688rem;
+     font-size: 1.125rem;
+     line-height: 1.625rem;
+     color: #5543ca;
+     cursor: text;
+     text-transform: capitalize;
+     transition:  0.2s ease-in-out;
+   }
+   
+   .contact-form .submit-btn{
+     display: inline-block;
+     background-image: linear-gradient(125deg, #a72879, #064497);
+   color: #fff;
+   text-transform: uppercase;
+   letter-spacing: 0.188rem;
+   font-size: 1rem;
+   padding: 0.5rem 1rem ;
+   border: none;
+   width: 12.5rem;
+   cursor: pointer;
+   }
+   
+   form {
+       background-color: #fff;
+   }
+   
+   
+   input {
+       
+       align-content: center;
+       align-self: center;
+   }
+   
+   form button {
+       width: fit-content;
+       height: fit-content;
+   }
+   
