@@ -5,6 +5,7 @@ import { BrowserRouter as Router,
   import "bootstrap/dist/css/bootstrap.min.css";
 
   import Home from "./pages/Home/Home";
+  import Escritos from './pages/Blog/Escritos';
   import Footer from "./componentes/Footer/Footer"
   import Navbar from "./componentes/Navbar/Navbar";
 
@@ -15,6 +16,7 @@ function App(){
 
       <Routes>
         <Route path="/" element={<Home/>} />
+        <Route path="/escritos" element={<Escritos/>} />
       </Routes>
       <Footer/>
     </Router>

@@ -8,29 +8,27 @@ function Contacto() {
 
             <form className='contact-form row justify-content-center px-3 py-2'>
                         
-                        <div className='form-field col-lg-6'>
-                        <input type="text" className="input-text" id="nombre"/>
+                        <div className='form-field col-lg-12'>
                         <label htmlFor="nombre" className='label'>Nombre</label>
-                        </div>
-
-                        <div className='form-field col-lg-6'>
-                        <input type="text" className="input-text" id="Apellido"/>
-                        <label htmlFor="apellido" className='label'>Apellido</label>
+                        <input type="text" className="form-control" id="nombre"/>
+                    
                         </div>
 
                         <div className='form-field col-lg-12'>
-                        <input type="text" className="input-text" id="email" aria-describedby="emailHelp" />
                         <label htmlFor="email" className='label'>Email</label>
+                        <input type="text" className="form-control" id="email" aria-describedby="emailHelp" />
+                        
                         </div>
 
                         <div className='form-field col-lg-12'>
-                        <input type="text" className="input-text" id="telefono"/>
                         <label htmlFor="telefono" className='label'>Telefono</label>
+                        <input type="text" className="form-control" id="telefono"/>
+                        
                         </div>
                         
                         <div className='form-field col-lg-12'>
-                        <input type="text" className="input-text" id="mensaje"/>
-                        <label htmlFor="mensaje" className='label'>Mensaje</label>
+                        <label htmlFor="mensaje">Mensaje</label>
+                        <textarea className='form-control' rows="8" id="mensaje" name="mensaje"></textarea>
                         </div>
 
                        

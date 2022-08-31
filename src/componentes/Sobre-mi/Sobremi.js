@@ -17,7 +17,7 @@ function Sobremi() {
                             </p>
                             
                             <a href='/M.SolVassia-cv.pdf' download>
-                                <button className='btn btn-primary'>Ver Curriculum</button></a>
+                                <button className='submit-btn'>Curriculum</button></a>
                             
                     </div>
                     <div className='d-none d-lg-block col-4'>

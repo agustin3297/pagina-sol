@@ -54,8 +54,9 @@ La psicoterapia es eso, escucha del decir y del no decir. Escucha de dolor, de a
             <div className='card-body'>
                     <h3>Aptos psicológicos</h3>
                     <hr className='mx-auto w-75'/>
-                    <p> Soy psicóloga egresada de la Universidad Nacional de Córdoba, formada en Postgrado en la Universidad Complutense de Madrid y diplomada en la Universidad Siglo 21 de Córdoba. MP. 3306.
-                    Me especializo en psicoterapia breve, acompañamiento durante el embarazo, nacimiento y crianza, y orientación vocacional. Fui docente en la Licenciatura en Psicología de la UNC desde 1998 hasta 2005, y en la UES21 desde el 2009 a la fecha.</p>
+                    <p> El escuchar no es lo mismo que oír. Oír es un fenómeno físico, mientras que escuchar es una práctica psicológica, requiere de algo más: atención, sostén y deseo. El escuchar no es un acto pasivo, invita a leer entre líneas, deducir de lo que se dice y de lo que no se dice. 
+La psicoterapia es eso, escucha del decir y del no decir. Escucha de dolor, de ansiedades, de fantasías, miedos y proyectos; escucha que busca devolver una pregunta que haga al paciente replantearse algo de aquello que dice.
+</p>
             </div>   
         </div>
 
